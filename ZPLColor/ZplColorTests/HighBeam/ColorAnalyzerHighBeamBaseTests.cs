@@ -4,7 +4,7 @@ using Xunit.Abstractions;
 using ZplColor.Color;
 using ZplColor.Common;
 
-namespace PrinterCSharpTests.HighBeam
+namespace ZplColorTests.HighBeam
 {
 
     public class ColorAnalyzerHighBeamBaseTests(ITestOutputHelper output)

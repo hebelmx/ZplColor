@@ -14,5 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\ZplColor\ZplColor.csproj" />
+    <ProjectReference Include="..\ZplColor\ZplColor.csproj" />
   </ItemGroup>
 </Project>

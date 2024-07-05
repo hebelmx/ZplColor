@@ -3,6 +3,8 @@
 using System.IO.Ports;
 using ZplColor.Common;
 
+namespace PrinterTester;
+
 public class TestData
 {
     public string ZplProgram { get; set; }

@@ -8,7 +8,7 @@ using ZplColor.Common;
 using ZplColor.Interfaces;
 using ZplColor.Printers;
 
-namespace PrinterCSharpTests.Serial
+namespace ZplColorTests.Dataprocessor
 {
     public class DataProcessorTests
     {

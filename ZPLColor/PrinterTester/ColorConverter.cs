@@ -1,6 +1,8 @@
-﻿using System.Drawing;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+using System.Drawing;
 using ZplColor.Common;
+
+namespace PrinterTester;
 
 public class ColorConverter : JsonConverter
 {

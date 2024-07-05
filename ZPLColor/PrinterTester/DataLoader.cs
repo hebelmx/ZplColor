@@ -1,5 +1,7 @@
 ﻿using Newtonsoft.Json;
 
+namespace PrinterTester;
+
 public class DataLoader
 {
     public static List<TestData> LoadTestData(string filePath)
